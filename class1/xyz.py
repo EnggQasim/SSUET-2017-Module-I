@@ -1,0 +1,1 @@
+print("SSUET Model-I")
