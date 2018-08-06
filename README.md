@@ -12,7 +12,6 @@ Transcript: The 5 questions data science answers
 5. Question 5: What should I do now? uses reinforcement learning algorithms
 ### Data Science, Operation team, Developer, DevOpe DataDevOpe
 ### Microservices
-<hr>
 ## Class3 Git Version Control System
 - Basics
 - Branches
