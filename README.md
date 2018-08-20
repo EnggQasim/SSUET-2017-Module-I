@@ -20,3 +20,13 @@ Transcript: The 5 questions data science answers
 - Variables
 - Operation, oprands, operators
 - print
+## Class5 (Dictionary, if_else_elif, and_or_not_in, for loop)
+- if
+- else
+- elif
+- and, or, not, in
+- for loop
+- dictionary
+	- .keys()
+	- .values()
+	- .items()
