@@ -30,3 +30,21 @@ Transcript: The 5 questions data science answers
 	- .keys()
 	- .values()
 	- .items()
+## Class6 (Functions, loop, input)
+- Functions
+    - Required Arguments
+    - Optional Arguments
+    - Return
+    - Non Return
+    - Defualt Arguments
+    - postional Arguments
+    - KeyWord Arguments
+    - Argument with List
+    - Argument with Dictionary 
+    - pre defineFunctions
+    - User defineFunctions
+- Loop
+    - for
+    - while
+    - do while
+- input
