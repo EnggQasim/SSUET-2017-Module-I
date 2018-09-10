@@ -48,3 +48,4 @@ Transcript: The 5 questions data science answers
     - while
     - do while
 - input
+## Class7 (Assignment 1 to 6)
