@@ -49,3 +49,17 @@ Transcript: The 5 questions data science answers
     - do while
 - input
 ## Class7 (Assignment 1 to 6)
+## Class8 (OOP)
+- class
+- instance/object
+- method
+- attributes/properties
+- inheritance
+- polymorphisim
+	- overloading
+	- over riding
+- Encupsolation
+- Abstract Class
+- public/private
+	- method
+	- attributes

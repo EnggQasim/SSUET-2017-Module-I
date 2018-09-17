@@ -1,0 +1,68 @@
+writer name: felix alvaro
+
+===Chapter1
+1)Runing serveral processes in background is called daemon.
+2)packages came in RPM, Debian, Ebuild, Tarballs
+3)Gparted for partition
+
+===Chapter4
+1) uptime
+2) uname –srv (sysName releas version) or -a
+3) man uname
+4) su - (switchToSuperUser)
+
+GUI(GNOME,KDE)
+
+Top-Level Directory page no 46
+
+===Chapter5
+1) uname -a
+2) lscpu
+3) cat /proc/cpuinfo
+
+fdisk, cfdisk, and
+sfdisk. These tools are great for use in partitioning.
+
+4) df -h (human readable)
+5) du /abc (show all file directory in folder)
+6) du -s (size of folder or file)
+
+Installation
+APT (advance package tool)
+
+===Chapter Six: Linux Applications
+
+->Office Applications
+Libre-Office Suite
+- .odt (word file)
+- .ods (Cals | Excel)
+- Impress (like ppt)
+
+->Multimedia Applications
+DigiKam
+- you can use players such as XMMS or Rhythmbox.
+- Burning software K3b for KDE
+- Imaging Applications
+	- GIMP (GNU Image Manipulation Program) and GNOME 	Ghostview (GGv).
+- Ghostview (pdf reader)
+
+===Chapter Seven: Using the Linux Command Line
+- CTRL key + R (search in command)
+-> Command Cheat Sheet
+1) info (show online information about command)
+2) man (show detail of command)
+3) whatis (shor description of a specific keyword)
+4) type <command> (show location of command)
+5) alias <k=command> 
+6) unalias (remove)
+Managining File and Directories
+1) cd <path> (change directories)
+2) pwd (display current directory)
+3) LN (create link to file and directories)
+4) touch (create new file)
+Finding File
+1) find 
+2) whereis(search executable file)
+3) which (search path)
+Processing Files
+1) copy lines
